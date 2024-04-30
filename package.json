@@ -1,0 +1,8 @@
+{
+  "name": "WEB_UI_VENOSA",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Artboeira/WEB_UI_VENOSA.git",
+  "author": "Arthur Boeira <39688792+Artboeira@users.noreply.github.com>",
+  "license": "MIT"
+}
